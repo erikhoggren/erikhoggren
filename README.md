@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @erikhoggren
 - 👀 I’m interested in data and nature
-- 🌱 I’m currently learning html, css, php, sql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html, css and javascript
 - 📫 How to reach me erhoggren@gmail.com
 
 <!---
